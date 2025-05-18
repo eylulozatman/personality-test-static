@@ -1,0 +1,92 @@
+[
+  {
+    "type": 1,
+    "wing": 2,
+    "description": "Genel tanım: Tip 1w2 'Aktivist', Tip 1’in prensipli ve idealist doğası ile Tip 2’nin yardımsever özelliklerini birleştirir. Başkalarının ihtiyaçlarına duyarlı, adaletli ve etik değerlere sahip bireylerdir; Güçlü yönler: Kararlılık, empati, sorumluluk bilinci ve topluma hizmet etme arzusu; Zorluklar: Aşırı eleştirellik, mükemmeliyetçilik, sabırsızlık ve kendini zorlamaya eğilim; Motivasyonlar: Dünyayı daha iyi bir yer yapmak, doğruluğu savunmak ve başkalarına yardım ederek anlam bulmak."
+  },
+  {
+    "type": 1,
+    "wing": 9,
+    "description": "Genel tanım: Tip 1w9 'İdealist', Tip 1’in adalet ve yüksek ideallere odaklı doğası ile Tip 9’un sakin, uzlaşmacı ruhunu harmanlar. Empatik, sabırlı ve dengeli bir yapıya sahiptir; Güçlü yönler: Bilge, huzurlu, uyumlu, sorumluluk sahibi ve prensiplerine sadıktır; Zorluklar: Gerçeklikten uzaklaşmaya ve duyguları bastırmaya eğilimli olabilir, kararsızlık ve içsel çatışma yaşayabilir; Motivasyonlar: Dünyayı adaletli bir yer yapmak, iç huzurunu korumak ve sevdiklerine güvence sağlamaktır."
+  },
+  {
+    "type": 2,
+    "wing": 1,
+    "description": "Genel tanım: Tip 2w1 'Yardımcı', Tip 2’nin özverili yardımseverliği ile Tip 1’in prensipli yapısını taşır. Başkalarına destek olmayı temel görev sayan, aynı zamanda kendi değerlerine sadık kişiler olarak bilinir; Güçlü yönler: Başkalarının ihtiyaçlarını fark edebilme, özenli hizmet etme ve sorumluluk sahibidirler; Zorluklar: Kendi ihtiyaçlarını geri planda bırakabilir; eleştiriye karşı hassastırlar, zaman zaman aşırı özveri ile tükenebilirler; Motivasyonlar: Kabul görmek, sevilmek ve topluma hizmet ederek bir fark yaratmak için çabalarlar."
+  },
+  {
+    "type": 2,
+    "wing": 3,
+    "description": "Genel tanım: Tip 2w3 'Eğlendirici', Tip 2’nin yardımseverliğini Tip 3’ün başarı odaklı tutumu ile birleştirir. Sosyal, dışa dönük ve iletişim becerileri yüksek kişilerdir; ilişkiler kurmak ve toplumsal iyiliğe katkıda bulunmak isterler; Güçlü yönler: İyimserlik, kararlılık, iyi iletişim ve başkalarını motive etme kabiliyetleri ön plandadır; Zorluklar: Aşırı rekabetçi olabilir, kendi ihtiyaçlarını görmezden gelme eğilimi ve eleştirilere karşı duyarlılık gösterebilirler; Motivasyonlar: Başkalarının sevgisini kazanmak, kabul görmek ve başarı elde ederek kendini değerli hissetmektir."
+  },
+  {
+    "type": 3,
+    "wing": 2,
+    "description": "Genel tanım: Tip 3w2 'Büyüleyici', Tip 3’ün hırsını Tip 2’nin yardımseverliği ile dengeler. Başarılı ve üretken olmaya çalışırken başkalarına da yardım etmeyi önemser; karizmatik ve ikna edici bir profil çizer; Güçlü yönler: Enerjik, organize, ikna edici ve insanları motive etme yetenekleri ile hedeflerine ulaşmada kararlı ve girişkendir; Zorluklar: Duygularını göstermekte zorluk çekebilir; imajını korumaya odaklandığından başarısızlık korkusu yaşayabilirler; Motivasyonlar: Takdir edilmek ve sosyal alanda beğenilmek, başarı ve performans yoluyla kendini değerli hissetmektir."
+  },
+  {
+    "type": 3,
+    "wing": 4,
+    "description": "Genel tanım: Tip 3w4 'Profesyonel', Tip 3’ün başarı odaklı yapısını Tip 4’ün yaratıcı duyarlılığıyla birleştirir. Hedeflerine kararlılıkla koşarken kendi benzersizliklerini de ifade etmeye çalışır; Güçlü yönler: Düzenli, dikkatli, yaratıcı ve özverilidir; engelleri aşmakta başarılıdır; Zorluklar: Mükemmeliyetçi ve yetersizlik korkusu yaşayabilir; gerçekçi olmayan beklentiler içine girebilir; Motivasyonlar: Kendini ispat etmek, takdir edilmek ve anlamlı başarılar elde etmek için çabalar."
+  },
+  {
+    "type": 4,
+    "wing": 3,
+    "description": "Genel tanım: Tip 4w3 'Coşkulu', Tip 4’ün duyarlılığı ile Tip 3’ün dinamizmini birleştirir. Yaratıcı, enerjik ve üretkendir; aynı zamanda toplumda iz bırakmayı ve kendini benzersizce ifade etmeyi ister; Güçlü yönler: Kendine derin bağlıdır, yaratıcı düşünür, başkalarının duygularını anlar ve samimidir; Zorluklar: Zor zamanlarda duygusal tepkiler verebilir, imajına fazla odaklanabilir, kendine güvensizlik veya onay arama eğiliminde olabilir; Motivasyonlar: Özgünlük, başkalarının takdirini kazanmak ve sanat yoluyla kendini ifade etmektir."
+  },
+  {
+    "type": 4,
+    "wing": 5,
+    "description": "Genel tanım: Tip 4w5 'Yalnız Ruh', Tip 4’ün duygusal derinliği ile Tip 5’in entelektüel merakını birleştirir. İçe dönük, sorgulayıcı ve yaratıcıdır; kendini ve dünyayı anlamaya odaklanır; Güçlü yönler: Kendine özgü olmaya ve derinlemesine düşünmeye yatkındır; merakı ve bağımsızlığı, bilgi edinme tutkusuyla besler; Zorluklar: Sosyal geri çekilme, gerçek sorunları erteleme ve aşırı düşünce olabilir; Motivasyonlar: Kişisel kimliğini keşfetmek, iç huzur ve anlamlı bir bütünlük kurmaktır."
+  },
+  {
+    "type": 5,
+    "wing": 4,
+    "description": "Genel tanım: Tip 5w4 'Filozof', Tip 5’in meraklı zekası ile Tip 4’ün yaratıcılığını birleştirir. İçine kapanık, entelektüel ve kendine özgü düşünceleri olan biridir; genellikle yalnızken daha verimli çalışır; Güçlü yönler: Yoğun odaklanma, yaratıcı düşünme, bağımsız çalışma ve derinlemesine bilgi edinme yeteneğine sahiptir; Zorluklar: Sosyal izolasyon, kendini yetersiz hissetme korkusu, başkalarına uzak kalma eğilimi gösterebilir; Motivasyonlar: Yeterli ve becerikli hissetmek, bilgi ve uzmanlık kazanarak bağımsızlığı sağlamaktır."
+  },
+  {
+    "type": 5,
+    "wing": 6,
+    "description": "Genel tanım: Tip 5w6 'Sorgulayıcı', Tip 5’in analitik yönünü Tip 6’nın güven arayışı ile birleştirir. Mantıklı, ihtiyatlı ve sezgiseldir; bilgi aracılığıyla güven elde etmeye çalışır; Güçlü yönler: Derinlemesine düşünme, detayları fark etme, bağımsız problem çözme ve hazırlıklı olma yetenekleri ön plandadır; Zorluklar: Aşırı analiz ve şüphecilik, korku nedeniyle kararsız kalma ve içe çekilme görülebilir; Motivasyonlar: Yeterli, uzman ve hazır hissetmek; güvenlik ve kontrol arayışı içindedir."
+  },
+  {
+    "type": 6,
+    "wing": 5,
+    "description": "Genel tanım: Tip 6w5 'Koruyucu', Tip 6’nın sadakat ve sorumluluğu ile Tip 5’in analitik zekasını birleştirir. Güvenliğe önem verir, bağımsız ve sorgulayıcı bir yapıya sahiptir; Güçlü yönler: Sağlam değerlere bağlılık, yüksek gözlem gücü ve stratejik düşünme yetenekleri vardır; destek aradığı ilişkilerde çok güvenilirdir; Zorluklar: Şüphecilik, fazla tetikte olma ve sosyal çekilme eğilimi bulunabilir; belirsizlik karşısında endişe artar; Motivasyonlar: Güvenlik ve istikrar sağlamak; tehlikeleri önceden öngörüp hazırlıklı olmak için çalışır."
+  },
+  {
+    "type": 6,
+    "wing": 7,
+    "description": "Genel tanım: Tip 6w7 'Güvenilir', Tip 6’nın sadakati ile Tip 7’nin enerjisini birleştirir. Dışa dönük, neşeli ve girişkendir; aynı zamanda güven ihtiyacı hisseder; Güçlü yönler: İyimserlik, pratik çözüm bulma yeteneği ve liderlik potansiyeli; zor zamanlarda destek arayanlara yol gösterirler; Zorluklar: Zaman baskısı hissi, kararsızlık, aşırı kaygı ve kendine güvensizlik yaşayabilir; başkalarının düşüncelerine fazla önem verebilirler; Motivasyonlar: Desteklenmek, kabul görmek ve güvenli bir ortamda yaşamak arzusuyla hareket ederler."
+  },
+  {
+    "type": 7,
+    "wing": 6,
+    "description": "Genel tanım: Tip 7w6 'Eğlendirici', Tip 7’nin iyimser ruhu ile Tip 6’nın sadakatini birleştirir. Maceraperest, neşeli ve iletişime açıktır; yeni deneyimler ararken zaman zaman kaygı hissedebilir; Güçlü yönler: Yaratıcı problem çözme, çok yönlü üretkenlik ve yüksek enerji; kriz anlarında fırsatlar görürler; Zorluklar: Sabırsızlık, acelecilik, zamanın yetersiz gelmesi korkusu ve öz güven dalgalanmaları yaşanabilir; Motivasyonlar: Mutluluk, özgürlük ve yeni deneyimler peşindedirler; hayatı dolu dolu yaşamak isterler."
+  },
+  {
+    "type": 7,
+    "wing": 8,
+    "description": "Genel tanım: Tip 7w8 'Gerçekçi', Tip 7’nin enerjisi ile Tip 8’in kararlılığını birleştirir. Kendine güvenen, girişken ve hırslıdır; hem maceradan hem de güç ve kontrol duygusundan hoşlanır; Güçlü yönler: Cesur karar alma, karizma, pratiklik ve liderlik yetenekleri ön plandadır; Zorluklar: Sabırsızlık, risk alma eğilimi, öfke patlamaları ve otoriterlik gösterebilir; bazen agresifleşebilirler; Motivasyonlar: Bağımsızlıklarını korumak, büyük hedefler peşinde koşmak ve anı yaşamak isterler."
+  },
+  {
+    "type": 8,
+    "wing": 7,
+    "description": "Genel tanım: Tip 8w7 'Bağımsız', Tip 8’in koruyucu gücü ile Tip 7’nin iyimserliğini birleştirir. Enerjik, kararlı ve lider ruhludur; güçlü bir özgürlük ve güç arzusu taşır; Güçlü yönler: Analitik düşünce, kararlılık, koruyuculuk, karizma ve soğukkanlı liderlik yetenekleri; Zorluklar: Kontrol isteği, öfke patlamaları ve sabırsızlık; tehdit altında agresifleşebilir, otoriter davranabilirler; Motivasyonlar: Güç kazanmak, kontrolü elinde tutmak ve adaletli olmak isterler."
+  },
+  {
+    "type": 8,
+    "wing": 9,
+    "description": "Genel tanım: Tip 8w9 'Koruyucu Ayı', Tip 8’in gücü ile Tip 9’un sakinliğini birleştirir. Güçlü ve kararlı, ama aynı zamanda sıcak, yardımsever ve dengeli bir kişiliktir; Güçlü yönler: Bilgelik, empati, liderlik becerisi ve sakin bir duruşla sorun çözebilme yeteneğine sahiptir; Zorluklar: Kontrol isteği, değişime direnç ve kapalı fikirli olma; genelde güçlüdür ama tehdit altında köşeye çekilebilirler; Motivasyonlar: Kendini ve çevresini koruyarak güven ve güç kazanmak ister."
+  },
+  {
+    "type": 9,
+    "wing": 8,
+    "description": "Genel tanım: Tip 9w8 'Danışman', Tip 9’un huzur arayışı ile Tip 8’in kuvvetli koruyuculuğunu birleştirir. Nazik, uyumlu ve huzurlu göründüğü kadar güçlüdür; empati gücü yüksek bir lider olabilir; Güçlü yönler: Hoşgörü, istikrar, liderlik vasıfları ve kriz anlarında soğukkanlılık öne çıkar; Zorluklar: İnatçılık, çatışmadan kaçınma ve öfkesini bastırma; bazen kendi ihtiyaçlarını ihmal edebilir; Motivasyonlar: Çevresinde barışı, uyumu ve güvenliği sağlamaktır."
+  },
+  {
+    "type": 9,
+    "wing": 1,
+    "description": "Genel tanım: Tip 9w1 'Hayalperest', Tip 9’un barışçıllığı ile Tip 1’in idealizmini birleştirir. İdealist, dengeli ve uzlaşmacıdır; her zaman sakin bir ortam yaratmaya çalışır; Güçlü yönler: Empati, adalet duygusu, işbirliği ve sorumluluk sahibidir; çevresine huzur ve denge getirir; Zorluklar: Çatışmalardan kaçınma, duygularını bastırma, aşırı içe dönme ve mükemmeliyetçilik; bazen kararsız kalabilir; Motivasyonlar: İç huzur ve denge arayışı, ideal bir uyum ve barış ortamı yaratmaktır."
+  }
+]
