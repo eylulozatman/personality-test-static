@@ -5,78 +5,13 @@
     "type": 1
   },
   {
-    "question_id": 2,
-    "question": "Hataları fark ettiğimde düzeltme ihtiyacı hissederim.",
-    "type": 1
-  },
-  {
-    "question_id": 3,
-    "question": "Her şeyin doğru ve adil olması benim için önemlidir.",
-    "type": 1
-  },
-  {
-    "question_id": 4,
-    "question": "Başkalarının sorumluluklarını yerine getirmemesi beni rahatsız eder.",
-    "type": 1
-  },
-  {
-    "question_id": 5,
-    "question": "Kurallara ve düzene uymak gerektiğine inanırım.",
-    "type": 1
-  },
-  {
-    "question_id": 6,
-    "question": "Kendi standartlarıma ulaşamadığımda kendime kızarım.",
-    "type": 1
-  },
-  {
-    "question_id": 7,
-    "question": "Duygularımdan çok mantığıma güvenirim.",
-    "type": 1
-  },
-  {
-    "question_id": 8,
-    "question": "Kusursuzluk için çabalamak beni motive eder.",
-    "type": 1
+    "question_id": 33,
+    "question": "Bilgi edinmek benim için çok değerlidir.",
+    "type": 5
   },
   {
     "question_id": 9,
     "question": "Başkalarına yardım etmeyi hayatımın önemli bir parçası olarak görürüm.",
-    "type": 2
-  },
-  {
-    "question_id": 10,
-    "question": "Kendi duygularımı gizleyip başkalarının rahatlaması için rol yapabilirim.",
-    "type": 2
-  },
-  {
-    "question_id": 11,
-    "question": "Sevgi görmek için başkalarına destek olmalıyım gibi hissederim.",
-    "type": 2
-  },
-  {
-    "question_id": 12,
-    "question": "İnsanlar bana ihtiyaç duyduklarında değerli hissederim.",
-    "type": 2
-  },
-  {
-    "question_id": 13,
-    "question": "Hastalanan bir yakınımı ziyaret etmek ve ona moral vermek benim için önemlidir.",
-    "type": 2
-  },
-  {
-    "question_id": 14,
-    "question": "Takdir edilmek benim için çok önemlidir.",
-    "type": 2
-  },
-  {
-    "question_id": 15,
-    "question": "Birinin yardım istemesini beklemeden destek olmayı tercih ederim.",
-    "type": 2
-  },
-  {
-    "question_id": 16,
-    "question": "Yakınlarım beni sevsin diye çaba gösteririm.",
     "type": 2
   },
   {
@@ -85,39 +20,9 @@
     "type": 3
   },
   {
-    "question_id": 18,
-    "question": "Başarılarım sayesinde kendimi değerli hissederim.",
-    "type": 3
-  },
-  {
-    "question_id": 19,
-    "question": "Rekabette öne geçmek bana kendimi iyi hissettirir.",
-    "type": 3
-  },
-  {
-    "question_id": 20,
-    "question": "Dışarıdan başarılı biri gibi görünmek isterim.",
-    "type": 3
-  },
-  {
-    "question_id": 21,
-    "question": "İnsanların beni takdir etmesi hoşuma gider.",
-    "type": 3
-  },
-  {
-    "question_id": 22,
-    "question": "Hedeflerime ulaşmak hayatımda çok önemlidir.",
-    "type": 3
-  },
-  {
-    "question_id": 23,
-    "question": "Yüksek performans gösterdiğimde kendimi iyi hissederim.",
-    "type": 3
-  },
-  {
-    "question_id": 24,
-    "question": "Performans değerlendirmeleri benim için çok önemlidir ve buna göre hareket ederim.",
-    "type": 3
+    "question_id": 41,
+    "question": "Güvenebileceğim bir çevre benim için önemlidir.",
+    "type": 6
   },
   {
     "question_id": 25,
@@ -125,158 +30,8 @@
     "type": 4
   },
   {
-    "question_id": 26,
-    "question": "Kendi tarzımı ve bireyselliğimi kıyafetlerimle veya eşyalarımla yansıtırım.",
-    "type": 4
-  },
-  {
-    "question_id": 27,
-    "question": "Bazen kendimi yalnız ve farklı hissederim.",
-    "type": 4
-  },
-  {
-    "question_id": 28,
-    "question": "Melankolik ya da duygusal hissettiğim zamanlar olur.",
-    "type": 4
-  },
-  {
-    "question_id": 29,
-    "question": "Kendi duygularımı ifade etmek için şiir müzik veya resim gibi yolları tercih ederim.",
-    "type": 4
-  },
-  {
-    "question_id": 30,
-    "question": "Sanatsal ya da yaratıcı faaliyetlere yatkınım.",
-    "type": 4
-  },
-  {
-    "question_id": 31,
-    "question": "Kalabalık ortamlarda bile iç dünyamda sık sık yalnızlık hissederim.",
-    "type": 4
-  },
-  {
-    "question_id": 32,
-    "question": "İç dünyam karmaşık ve zengindir.",
-    "type": 4
-  },
-  {
-    "question_id": 33,
-    "question": "Bilgi edinmek benim için çok değerlidir.",
-    "type": 5
-  },
-  {
-    "question_id": 34,
-    "question": "Bir konuya derinlemesine odaklanmayı severim.",
-    "type": 5
-  },
-  {
-    "question_id": 35,
-    "question": "Yalnız çalışmak çoğu zaman bana daha uygundur.",
-    "type": 5
-  },
-  {
-    "question_id": 36,
-    "question": "Bağımsızlığıma çok önem veririm.",
-    "type": 5
-  },
-  {
-    "question_id": 37,
-    "question": "Bilgi olmadan karar vermekte zorlanırım.",
-    "type": 5
-  },
-  {
-    "question_id": 38,
-    "question": "Kendi alanımda uzmanlaşmak isterim.",
-    "type": 5
-  },
-  {
-    "question_id": 39,
-    "question": "Genellikle düşünmeye zaman ayırırım.",
-    "type": 5
-  },
-  {
-    "question_id": 40,
-    "question": "Fazla sosyallik beni yorabilir.",
-    "type": 5
-  },
-  {
-    "question_id": 41,
-    "question": "Güvenebileceğim bir çevre benim için önemlidir.",
-    "type": 6
-  },
-  {
-    "question_id": 42,
-    "question": "Bilinmezlik beni endişelendirir.",
-    "type": 6
-  },
-  {
-    "question_id": 43,
-    "question": "Risk almadan önce her ihtimali değerlendiririm.",
-    "type": 6
-  },
-  {
-    "question_id": 44,
-    "question": "Planlı olmak bana güven verir.",
-    "type": 6
-  },
-  {
-    "question_id": 45,
-    "question": "Karar vermeden önce başkalarına danışırım.",
-    "type": 6
-  },
-  {
-    "question_id": 46,
-    "question": "Kendimi güvende hissetmediğimde kaygılanırım.",
-    "type": 6
-  },
-  {
-    "question_id": 47,
-    "question": "Yakın çevremin desteğini hissetmek isterim.",
-    "type": 6
-  },
-  {
-    "question_id": 48,
-    "question": "Destek aramak benim için doğaldır.",
-    "type": 6
-  },
-  {
     "question_id": 49,
     "question": "Yeni deneyimler yaşamaktan heyecan duyarım.",
-    "type": 7
-  },
-  {
-    "question_id": 50,
-    "question": "Rutin işler beni sıkar.",
-    "type": 7
-  },
-  {
-    "question_id": 51,
-    "question": "Anı yaşamak benim için çok değerlidir.",
-    "type": 7
-  },
-  {
-    "question_id": 52,
-    "question": "Yeni fırsatları değerlendirmeyi severim.",
-    "type": 7
-  },
-  {
-    "question_id": 53,
-    "question": "Hayatın eğlenceli yönlerine odaklanırım.",
-    "type": 7
-  },
-  {
-    "question_id": 54,
-    "question": "Birden fazla işle ilgilenmeyi severim.",
-    "type": 7
-  },
-  {
-    "question_id": 55,
-    "question": "Spontane kararlar almayı tercih ederim.",
-    "type": 7
-  },
-  {
-    "question_id": 56,
-    "question": "Geçmişte kaçırdığım fırsatlara takılmam.",
     "type": 7
   },
   {
@@ -285,44 +40,49 @@
     "type": 8
   },
   {
-    "question_id": 58,
-    "question": "Liderlik etmeyi severim.",
-    "type": 8
-  },
-  {
-    "question_id": 59,
-    "question": "Güçsüz hissetmekten hoşlanmam.",
-    "type": 8
-  },
-  {
-    "question_id": 60,
-    "question": "Bağımsız hareket etmek isterim.",
-    "type": 8
-  },
-  {
-    "question_id": 61,
-    "question": "Çatışmalardan kaçmam.",
-    "type": 8
-  },
-  {
-    "question_id": 62,
-    "question": "Başkalarının haklarını korumak isterim.",
-    "type": 8
-  },
-  {
-    "question_id": 63,
-    "question": "Kontrolü elde tutmak bana güven verir.",
-    "type": 8
-  },
-  {
-    "question_id": 64,
-    "question": "Duygularımı açıkça göstermem.",
-    "type": 8
-  },
-  {
     "question_id": 65,
     "question": "Evde ya da işte barış ortamı sağlamak için sorumluluk almaktan çekinmem.",
     "type": 9
+  },
+  {
+    "question_id": 2,
+    "question": "Hataları fark ettiğimde düzeltme ihtiyacı hissederim.",
+    "type": 1
+  },
+  {
+    "question_id": 10,
+    "question": "Kendi duygularımı gizleyip başkalarının rahatlaması için rol yapabilirim.",
+    "type": 2
+  },
+  {
+    "question_id": 18,
+    "question": "Başarılarım sayesinde kendimi değerli hissederim.",
+    "type": 3
+  },
+  {
+    "question_id": 26,
+    "question": "Kendi tarzımı ve bireyselliğimi kıyafetlerimle veya eşyalarımla yansıtırım.",
+    "type": 4
+  },
+  {
+    "question_id": 34,
+    "question": "Bir konuya derinlemesine odaklanmayı severim.",
+    "type": 5
+  },
+  {
+    "question_id": 42,
+    "question": "Bilinmezlik beni endişelendirir.",
+    "type": 6
+  },
+  {
+    "question_id": 50,
+    "question": "Rutin işler beni sıkar.",
+    "type": 7
+  },
+  {
+    "question_id": 58,
+    "question": "Liderlik etmeyi severim.",
+    "type": 8
   },
   {
     "question_id": 66,
@@ -330,9 +90,89 @@
     "type": 9
   },
   {
+    "question_id": 3,
+    "question": "Her şeyin doğru ve adil olması benim için önemlidir.",
+    "type": 1
+  },
+  {
+    "question_id": 11,
+    "question": "Sevgi görmek için başkalarına destek olmalıyım gibi hissederim.",
+    "type": 2
+  },
+  {
+    "question_id": 19,
+    "question": "Rekabette öne geçmek bana kendimi iyi hissettirir.",
+    "type": 3
+  },
+  {
+    "question_id": 27,
+    "question": "Bazen kendimi yalnız ve farklı hissederim.",
+    "type": 4
+  },
+  {
+    "question_id": 35,
+    "question": "Yalnız çalışmak çoğu zaman bana daha uygundur.",
+    "type": 5
+  },
+  {
+    "question_id": 43,
+    "question": "Risk almadan önce her ihtimali değerlendiririm.",
+    "type": 6
+  },
+  {
+    "question_id": 51,
+    "question": "Anı yaşamak benim için çok değerlidir.",
+    "type": 7
+  },
+  {
+    "question_id": 59,
+    "question": "Güçsüz hissetmekten hoşlanmam.",
+    "type": 8
+  },
+  {
     "question_id": 67,
     "question": "Sakin ve huzurlu ortamları severim.",
     "type": 9
+  },
+  {
+    "question_id": 4,
+    "question": "Başkalarının sorumluluklarını yerine getirmemesi beni rahatsız eder.",
+    "type": 1
+  },
+  {
+    "question_id": 12,
+    "question": "İnsanlar bana ihtiyaç duyduklarında değerli hissederim.",
+    "type": 2
+  },
+  {
+    "question_id": 20,
+    "question": "Dışarıdan başarılı biri gibi görünmek isterim.",
+    "type": 3
+  },
+  {
+    "question_id": 28,
+    "question": "Melankolik ya da duygusal hissettiğim zamanlar olur.",
+    "type": 4
+  },
+  {
+    "question_id": 36,
+    "question": "Bağımsızlığıma çok önem veririm.",
+    "type": 5
+  },
+  {
+    "question_id": 44,
+    "question": "Planlı olmak bana güven verir.",
+    "type": 6
+  },
+  {
+    "question_id": 52,
+    "question": "Yeni fırsatları değerlendirmeyi severim.",
+    "type": 7
+  },
+  {
+    "question_id": 60,
+    "question": "Bağımsız hareket etmek isterim.",
+    "type": 8
   },
   {
     "question_id": 68,
@@ -340,9 +180,89 @@
     "type": 9
   },
   {
+    "question_id": 5,
+    "question": "Kurallara ve düzene uymak gerektiğine inanırım.",
+    "type": 1
+  },
+  {
+    "question_id": 13,
+    "question": "Hastalanan bir yakınımı ziyaret etmek ve ona moral vermek benim için önemlidir.",
+    "type": 2
+  },
+  {
+    "question_id": 21,
+    "question": "İnsanların beni takdir etmesi hoşuma gider.",
+    "type": 3
+  },
+  {
+    "question_id": 29,
+    "question": "Kendi duygularımı ifade etmek için şiir müzik veya resim gibi yolları tercih ederim.",
+    "type": 4
+  },
+  {
+    "question_id": 37,
+    "question": "Bilgi olmadan karar vermekte zorlanırım.",
+    "type": 5
+  },
+  {
+    "question_id": 45,
+    "question": "Karar vermeden önce başkalarına danışırım.",
+    "type": 6
+  },
+  {
+    "question_id": 53,
+    "question": "Hayatın eğlenceli yönlerine odaklanırım.",
+    "type": 7
+  },
+  {
+    "question_id": 61,
+    "question": "Çatışmalardan kaçmam.",
+    "type": 8
+  },
+  {
     "question_id": 69,
     "question": "Ortamda huzur sağlamak için çaba gösteririm.",
     "type": 9
+  },
+  {
+    "question_id": 6,
+    "question": "Kendi standartlarıma ulaşamadığımda kendime kızarım.",
+    "type": 1
+  },
+  {
+    "question_id": 14,
+    "question": "Takdir edilmek benim için çok önemlidir.",
+    "type": 2
+  },
+  {
+    "question_id": 22,
+    "question": "Hedeflerime ulaşmak hayatımda çok önemlidir.",
+    "type": 3
+  },
+  {
+    "question_id": 30,
+    "question": "Sanatsal ya da yaratıcı faaliyetlere yatkınım.",
+    "type": 4
+  },
+  {
+    "question_id": 38,
+    "question": "Kendi alanımda uzmanlaşmak isterim.",
+    "type": 5
+  },
+  {
+    "question_id": 46,
+    "question": "Kendimi güvende hissetmediğimde kaygılanırım.",
+    "type": 6
+  },
+  {
+    "question_id": 54,
+    "question": "Birden fazla işle ilgilenmeyi severim.",
+    "type": 7
+  },
+  {
+    "question_id": 62,
+    "question": "Başkalarının haklarını korumak isterim.",
+    "type": 8
   },
   {
     "question_id": 70,
@@ -350,9 +270,89 @@
     "type": 9
   },
   {
+    "question_id": 7,
+    "question": "Duygularımdan çok mantığıma güvenirim.",
+    "type": 1
+  },
+  {
+    "question_id": 15,
+    "question": "Birinin yardım istemesini beklemeden destek olmayı tercih ederim.",
+    "type": 2
+  },
+  {
+    "question_id": 23,
+    "question": "Yüksek performans gösterdiğimde kendimi iyi hissederim.",
+    "type": 3
+  },
+  {
+    "question_id": 31,
+    "question": "Kalabalık ortamlarda bile iç dünyamda sık sık yalnızlık hissederim.",
+    "type": 4
+  },
+  {
+    "question_id": 39,
+    "question": "Genellikle düşünmeye zaman ayırırım.",
+    "type": 5
+  },
+  {
+    "question_id": 47,
+    "question": "Yakın çevremin desteğini hissetmek isterim.",
+    "type": 6
+  },
+  {
+    "question_id": 55,
+    "question": "Spontane kararlar almayı tercih ederim.",
+    "type": 7
+  },
+  {
+    "question_id": 63,
+    "question": "Kontrolü elde tutmak bana güven verir.",
+    "type": 8
+  },
+  {
     "question_id": 71,
     "question": "Durumu anlamadan harekete geçmem.",
     "type": 9
+  },
+  {
+    "question_id": 8,
+    "question": "Kusursuzluk için çabalamak beni motive eder.",
+    "type": 1
+  },
+  {
+    "question_id": 16,
+    "question": "Yakınlarım beni sevsin diye çaba gösteririm.",
+    "type": 2
+  },
+  {
+    "question_id": 24,
+    "question": "Performans değerlendirmeleri benim için çok önemlidir ve buna göre hareket ederim.",
+    "type": 3
+  },
+  {
+    "question_id": 32,
+    "question": "İç dünyam karmaşık ve zengindir.",
+    "type": 4
+  },
+  {
+    "question_id": 40,
+    "question": "Fazla sosyallik beni yorabilir.",
+    "type": 5
+  },
+  {
+    "question_id": 48,
+    "question": "Destek aramak benim için doğaldır.",
+    "type": 6
+  },
+  {
+    "question_id": 56,
+    "question": "Geçmişte kaçırdığım fırsatlara takılmam.",
+    "type": 7
+  },
+  {
+    "question_id": 64,
+    "question": "Duygularımı açıkça göstermem.",
+    "type": 8
   },
   {
     "question_id": 72,

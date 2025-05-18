@@ -4,12 +4,9 @@ let descriptionData = [];
 
 async function loadData() {
     try {
-        // Load questions
+        // Load questions (orijinal sırada)
         const questionsResponse = await fetch('data/questions.json');
         questionsData = await questionsResponse.json();
-        
-        // Shuffle questions while preserving IDs and types
-        questionsData = shuffleArray(questionsData);
         
         // Load descriptions
         const descResponse = await fetch('data/description.json');
@@ -22,15 +19,6 @@ async function loadData() {
     }
 }
 
-// Fisher-Yates shuffle algorithm
-function shuffleArray(array) {
-    const newArray = [...array];
-    for (let i = newArray.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
-    }
-    return newArray;
-}
 
 // Main app logic
 document.addEventListener('DOMContentLoaded', async function() {
