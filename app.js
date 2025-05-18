@@ -46,56 +46,58 @@ function initTestPage() {
     const answers = {}; // { question_id: weight }
 
     function showPage() {
-        const container = document.getElementById('options-container');
-        container.innerHTML = '';
+    const container = document.getElementById('options-container');
+    container.innerHTML = '';
 
-        const start = currentPage * questionsPerPage;
-        const end = Math.min(start + questionsPerPage, questions.length);
+    const start = currentPage * questionsPerPage;
+    const end = Math.min(start + questionsPerPage, questions.length);
 
-        document.getElementById('question-text').textContent = `Sayfa ${currentPage + 1}`;
+    document.getElementById('question-text').textContent = `Sayfa ${currentPage + 1}`;
 
-        for (let i = start; i < end; i++) {
-            const q = questions[i];
+    for (let i = start; i < end; i++) {
+        const q = questions[i];
 
-            const questionDiv = document.createElement('div');
-            questionDiv.classList.add('question-item');
+        const questionDiv = document.createElement('div');
+        questionDiv.classList.add('question-item');
 
-            const questionTitle = document.createElement('p');
-            questionTitle.textContent = `${i + 1}. ${q.question}`;
-            questionDiv.appendChild(questionTitle);
+        const questionTitle = document.createElement('p');
+        questionTitle.textContent = `${i + 1}. ${q.question}`;
+        questionDiv.appendChild(questionTitle);
 
-            const options = [
-                { value: 2, label: 'Kesinlikle Katılıyorum' },
-                { value: 1, label: 'Katılıyorum' },
-                { value: 0, label: 'Kararsızım' },
-                { value: -1, label: 'Katılmıyorum' },
-                { value: -2, label: 'Hiç Katılmıyorum' }
-            ];
+        const options = [
+            { value: 2, label: 'Kesinlikle Katılıyorum' },
+            { value: 1, label: 'Katılıyorum' },
+            { value: 0, label: 'Kararsızım' },
+            { value: -1, label: 'Katılmıyorum' },
+            { value: -2, label: 'Hiç Katılmıyorum' }
+        ];
 
-            options.forEach(opt => {
-                const label = document.createElement('label');
-                const input = document.createElement('input');
-                input.type = 'radio';
-                input.name = `answer_${q.question_id}`;
-                input.value = opt.value;
+        options.forEach(opt => {
+            const label = document.createElement('label');
+            const input = document.createElement('input');
+            input.type = 'radio';
+            input.name = `answer_${q.question_id}`;
+            input.value = opt.value;
 
-                if (answers[q.question_id] !== undefined && parseInt(answers[q.question_id]) === opt.value) {
-                    input.checked = true;
-                }
+            if (answers[q.question_id] !== undefined && parseInt(answers[q.question_id]) === opt.value) {
+                input.checked = true;
+            }
 
-                label.appendChild(input);
-                label.appendChild(document.createTextNode(' ' + opt.label));
-                questionDiv.appendChild(label);
-            });
+            label.appendChild(input);
+            label.appendChild(document.createTextNode(' ' + opt.label));
+            questionDiv.appendChild(label);
+        });
 
-            container.appendChild(questionDiv);
-        }
-
-        document.getElementById('prev-page').style.display = currentPage === 0 ? 'none' : 'inline-block';
-        document.getElementById('next-page').style.display = (end === questions.length) ? 'none' : 'inline-block';
-        document.getElementById('show-result').style.display = (end === questions.length) ? 'inline-block' : 'none';
+        container.appendChild(questionDiv);
     }
 
+    document.getElementById('prev-page').style.display = currentPage === 0 ? 'none' : 'inline-block';
+    document.getElementById('next-page').style.display = (end === questions.length) ? 'none' : 'inline-block';
+    document.getElementById('show-result').style.display = (end === questions.length) ? 'inline-block' : 'none';
+    
+    // Sayfanın en üstüne kaydır
+    window.scrollTo(0, 0);
+}
     function saveAnswersOnPage() {
         const start = currentPage * questionsPerPage;
         const end = Math.min(start + questionsPerPage, questions.length);
