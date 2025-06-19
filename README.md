@@ -19,4 +19,5 @@ The Enneagram is a psychological and spiritual personality system that divides h
 Each type can also be influenced by one of its neighboring types, called **wings**, creating more nuance in your personality profile (e.g., 4w5 or 4w3).
 
 Quick Access
+The language of the test is Turkish!
 https://eylulozatman.github.io/personality-test-static/
